@@ -1,2 +1,2 @@
-timeout1==2000
-timeout2==3000
+timeout1:2000
+timeout2:3000
